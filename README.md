@@ -1,4 +1,4 @@
-# 🧠 Regression Analysis using PyCaret
+# Regression Analysis using PyCaret
 
 Welcome to the **Regression Analysis using PyCaret** repository! This project demonstrates how to leverage the power of the PyCaret library to perform end-to-end regression tasks with minimal code. Whether you're a beginner or an experienced data scientist, PyCaret provides an intuitive and efficient framework for building and evaluating regression models.
 
